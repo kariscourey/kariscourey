@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kariscourey
-- 👀 I’m interested in ... learning more about Data Science and Software Engineering
-- 🌱 I’m currently learning ... UiPath (Advanced RPA Developer cert)
+- 👀 I’m interested in ... learning more about Data Science and Software Engineering roles and responsibilities
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... nothing in particular at the moment, though I'm up for anything
 - 📫 How to reach me ... 
 
