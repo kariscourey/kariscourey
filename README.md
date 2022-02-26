@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kariscourey
-- 👀 I’m interested in ... developing my software engineering skills
+- 👀 I’m interested in ... developing my SWE skills
 - 🌱 I’m currently learning ... Python 3
 - 💞️ I’m looking to collaborate on ... nothing in particular at the moment, though I'm up for anything
 - 📫 How to reach me ... https://www.linkedin.com/in/kariscourey/
