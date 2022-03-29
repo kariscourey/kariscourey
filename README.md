@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kariscourey
+- 👋 Hi, I’m @kariscourey 
 - 🌱 I’m currently learning ... C via CS50
 - 📫 How to reach me ... https://www.linkedin.com/in/kariscourey/
 
