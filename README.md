@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kariscourey 
-- 🌱 I’m currently learning ... Python via CS50
+- 🌱 I’m currently learning ... SQL via CS50
 - 📫 How to reach me ... https://www.linkedin.com/in/kariscourey/
 
 <!---
