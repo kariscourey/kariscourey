@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kariscourey 
-- 🌱 I’m currently learning ... JavaScript, HTML, and CSS via CS50
+- 🌱 I’m currently learning ... JavaScript, HTML, and CSS
 - 📫 How to reach me ... https://www.linkedin.com/in/kariscourey/
 
 <!---
