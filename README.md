@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kariscourey 
-- 🌱 I’m currently learning ... Flask
+- 🌱 I’m currently learning ... Flask via CS50
 - 📫 How to reach me ... https://www.linkedin.com/in/kariscourey/
 
 <!---
