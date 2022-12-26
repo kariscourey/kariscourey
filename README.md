@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kariscourey 
+- 👋 Hi, I’m @kariscourey
 - 📫 How to reach me ... https://www.linkedin.com/in/kariscourey/
 
 <!---
